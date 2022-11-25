@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="test3.xsl" type="text/xsl"?>
+<college xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/sample test2.xsd">
+    <student>
+        <Stu-name>A Mukherjee</Stu-name>
+        <Stu-Course>MCA</Stu-Course>
+        <Stu-Sem>2</Stu-Sem>
+        <Stu-Sub1>40</Stu-Sub1>
+        <Stu-Sub2>40</Stu-Sub2>
+        <Stu-Sub3>40</Stu-Sub3>
+        <Stu-Total>120</Stu-Total>
+        <Stu-Avg>40</Stu-Avg>
+    </student>
+    <student>
+        <Stu-name>B Das</Stu-name>
+        <Stu-Course>MCA</Stu-Course>
+        <Stu-Sem>2</Stu-Sem>
+        <Stu-Sub1>95</Stu-Sub1>
+        <Stu-Sub2>85</Stu-Sub2>
+        <Stu-Sub3>90</Stu-Sub3>
+        <Stu-Total>270</Stu-Total>
+        <Stu-Avg>90</Stu-Avg>
+    </student>
+    <student>
+        <Stu-name>J Haldar</Stu-name>
+        <Stu-Course>MCA</Stu-Course>
+        <Stu-Sem>2</Stu-Sem>
+        <Stu-Sub1>50</Stu-Sub1>
+        <Stu-Sub2>70</Stu-Sub2>
+        <Stu-Sub3>90</Stu-Sub3>
+        <Stu-Total>210</Stu-Total>
+        <Stu-Avg>70</Stu-Avg>
+    </student>
+    <student>
+        <Stu-name>N Iyer</Stu-name>
+        <Stu-Course>MCA</Stu-Course>
+        <Stu-Sem>2</Stu-Sem>
+        <Stu-Sub1>80</Stu-Sub1>
+        <Stu-Sub2>80</Stu-Sub2>
+        <Stu-Sub3>83</Stu-Sub3>
+        <Stu-Total>243</Stu-Total>
+        <Stu-Avg>81</Stu-Avg>
+    </student>
+    <student>
+        <Stu-name>G Bose</Stu-name>
+        <Stu-Course>MCA</Stu-Course>
+        <Stu-Sem>2</Stu-Sem>
+        <Stu-Sub1>49</Stu-Sub1>
+        <Stu-Sub2>45</Stu-Sub2>
+        <Stu-Sub3>56</Stu-Sub3>
+        <Stu-Total>150</Stu-Total>
+        <Stu-Avg>50</Stu-Avg>
+    </student>
+</college>
